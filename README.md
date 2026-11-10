@@ -1,33 +1,70 @@
-# Olá, eu sou Alex Ferreira de Castro 👋
+<div align="center">
 
-**Analista de TI · Suporte Técnico e Infraestrutura · Análise de Sistemas**
+# Alex Castro
 
-Sou estudante de Engenharia de Software na Estácio e certificado **AWS Certified Cloud Practitioner**. Minha experiência reúne suporte a usuários, infraestrutura de TI e sustentação de aplicações. Gosto de investigar a causa dos problemas, documentar soluções e transformar conhecimento em projetos práticos.
+**Código, automação e soluções para o dia a dia.**
 
-## Experiência
+Desenvolvimento de software · Cloud · Inteligência artificial
 
-- **Casamax:** trajetória de auxiliar de TI a analista de TI, com atuação em suporte a usuários, redes e equipamentos.
-- **Itaú Unibanco:** suporte e análise de sistemas COBOL, investigação de incidentes, testes, documentação técnica e participação em implantações e acompanhamento de sistemas em produção.
+[LinkedIn](https://www.linkedin.com/in/alexferreiradecastro/) · [Repositórios públicos](https://github.com/alexfcastro?tab=repositories&type=public)
 
-## Conhecimentos
+</div>
 
-| Área | Tecnologias e atividades |
-| --- | --- |
-| Suporte e infraestrutura | Atendimento a usuários, manutenção de equipamentos, redes e Linux |
-| Desenvolvimento | Java, Python, PHP, JavaScript e COBOL |
-| Dados e versionamento | SQL, NoSQL e Git |
-| Cloud | Fundamentos de computação em nuvem e certificação AWS Cloud Practitioner |
-| IA generativa | ChatGPT, Claude e Gemini para investigação de problemas, revisão de código, cenários de teste e documentação, com validação dos resultados |
+---
 
-## Projeto público
+### Sobre o que você encontra por aqui
 
-- [TabuadaQuest](https://github.com/alexfcastro/TabuadaQuest.) — repositório de projeto em Java.
+Gosto de transformar problemas práticos em ferramentas e aplicações. Minha base em suporte e infraestrutura orienta a forma como desenvolvo: investigar, testar e documentar.
 
-## Formação
+Estudo Engenharia de Software e exploro o uso de IA como apoio ao desenvolvimento, sempre revisando o resultado.
 
-**Bacharelado em Engenharia de Software — Estácio**  
-2025–2028 · Em andamento
+### Tecnologias
 
-## Contato
+<p>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/alexferreiradecastro/)
+### Projeto em destaque
+
+<table>
+<tr>
+<td>
+
+#### 🎮 [TabuadaQuest](https://github.com/alexfcastro/TabuadaQuest.)
+
+Jogo educativo para praticar tabuada, com uma jornada organizada em níveis.
+
+**Por dentro do projeto**
+- Aplicação Android com Java e WebView.
+- Conteúdo web executado localmente no aplicativo.
+- Workflows de build e smoke test no GitHub Actions.
+
+**Java · Android · WebView · GitHub Actions**
+
+[Explorar o código →](https://github.com/alexfcastro/TabuadaQuest.)
+
+</td>
+</tr>
+</table>
+
+### Áreas de estudo e experimentação
+
+- **Automação:** scripts para simplificar tarefas de suporte e organização.
+- **Cloud:** fundamentos e aplicações práticas na AWS.
+- **IA aplicada:** apoio à programação, investigação de problemas e documentação.
+
+<sub>AWS Certified Cloud Practitioner · Engenharia de Software em andamento</sub>
+
+---
+
+<div align="center">
+
+**Vamos conversar sobre tecnologia e projetos?**  
+[Entre em contato pelo LinkedIn](https://www.linkedin.com/in/alexferreiradecastro/)
+
+</div>
